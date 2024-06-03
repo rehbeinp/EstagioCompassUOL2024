@@ -1,0 +1,1 @@
+Média de bilheteria dos princípais filmes de todos os atores é 420.0.
