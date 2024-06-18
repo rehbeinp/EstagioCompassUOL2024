@@ -23,3 +23,4 @@
 * Python 3 - Do básico ao avançado. <p>
 * AWS Partner: Economia na nuven AWS. <p>
 * Data & Analytics- PB - AWS Novo 3/10.
+
