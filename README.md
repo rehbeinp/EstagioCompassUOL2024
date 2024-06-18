@@ -24,3 +24,7 @@
 * AWS Partner: Economia na nuven AWS. <p>
 * Data & Analytics- PB - AWS Novo 3/10.
 
+### [Spint 04:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint04)
+* Python 3 - Do básico ao avançado. <p>
+* AWS Partner: Accreditation Technical. <p>
+* Data & Analytics- PB - AWS Novo 4/10.
