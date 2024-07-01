@@ -17,34 +17,25 @@ map
 '''
 
 def calcular_valor_maximo(operadores, operandos):
-    n1=[]
-    n2=[]
-    c=[]
-    for n in operandos:
-        n1.append(n[0])
-        n2.append(n[1])
-        #print(n1, n2)
 
-    zipados=list(zip(n1, operadores, n2))
-    for n in (zipados, n1, n2):
-        print(n)
-        if n[1] == "+":
-            a=n1+n2
-            c.append (a)
-        if n[1] == "-":
-            a=n1-n2
-            c.append (a)
-        if n[1]=="*":
-            a=n1*n2
-            c.append (a)
-        if n[1]=="/":
-            a=n1/n2
-            c.append (a)
-        if n[1]=="%":
-            a=n1%n2
-            c.append (a)
-        return c
-
-operador = ['+','-','*','/','+']
+    def aplicar_operacao(operador, n1, n2):
+            if operador == "+":
+                return n1 + n2
+            elif operador == "-":
+                return n1 - n2
+            elif operador == "*":
+                return n1 * n2
+            elif operador == "/":
+                return n1 / n2
+            elif operador == "%":
+                return n1 % n2
+            else:
+                raise ValueError("Operador inválido: " + operador)
+    conta=zip(operadores, operandos)
+    total= map(lambda x: aplicar_operacao(x[0],x[1][0], x[1][1]), conta)
+    maior=max(total)
+    return maior
+    
+operadores = ['+','-','*','/','+']
 operandos  = [(3,6), (-7,4.9), (8,-8), (10,2), (8,4)]
-print((calcular_valor_maximo(operador, operandos)))
+print((calcular_valor_maximo(operadores, operandos)))

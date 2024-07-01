@@ -1,0 +1,40 @@
+id,produto,quantidade,preço,data
+6,camisa,7,40.00,06/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+13,caderno,18,8.00,13/01/2023
+15,borracha,25,0.50,15/01/2023
+20,pasta sanfonada,4,35.00,20/01/2023
+22,mouse sem fio,7,50.00,22/01/2023
+23,filtro de linha,6,30.00,23/01/2023
+24,cabo HDMI,10,15.00,24/01/2023
+25,pilha AA,20,2.00,25/01/2023
+26,luminária de mesa,4,40.00,26/01/2023
+27,relogio de parede,8,20.00,27/01/2023
+28,porta-retrato digital,2,100.00,28/01/2023
+29,vaporizador de roupas,1,150.00,29/01/2023
+30,balança digital,3,60.00,30/01/2023
+31,furadeira elétrica,2,200.00,31/01/2023
+32,jogo de panelas antiaderente,5,120.00,01/02/2023
+33,faca elétrica,4,80.00,02/02/2023
+34,sanduicheira elétrica,6,40.00,03/02/2023
+35,mixer de alimentos,7,50.00,04/02/2023
+36,batedeira planetária,2,300.00,05/02/2023
+52,guitarra elétrica fender,3,2999.00,20/02/2023
+53,amplificador de guitarra,4,799.00,21/02/2023
+54,pedaleira preta,5,499.00,22/02/2023
+55,cabo para instrumento ninja,10,59.00,23/02/2023
+57,afinador digital,6,49.00,25/02/2023
+58,capotraste,8,99.00,26/02/2023
+60,correia para guitarra,9,19.00,28/02/2023
+62,violão acústico,4,299.00,02/03/2023
+63,capa para violão,5,99.00,03/03/2023
+64,banqueta para violão,6,69.00,04/03/2023
+65,limpador de cordas,8,29.00,05/03/2023
+66,flauta transversal,2,1999.00,06/03/2023
+67,suporte para flauta,4,79.00,07/03/2023
+70,saxofone,4,4359.00,10/03/2023
+71,suporte para saxofone,5,32.69,11/03/2023
+76,teclado musical casio,2,784.98,16/03/2023
+77,sintetizador de voz,3,324.12,17/03/2023
+78,controlador com cabo usb,4,124.00,20/03/2023
