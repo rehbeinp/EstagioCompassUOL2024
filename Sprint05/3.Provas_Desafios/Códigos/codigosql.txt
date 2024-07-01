@@ -1,0 +1,11 @@
+# 2 parametros logicos
+# 1 funçao condicional
+# 1 funçaõ de converção
+# 1 função de string:
+SELECT case when NU_ANO_CENSO = '2023' then cast('2023-01-01' as timestamp) end as ANO_CENSO, UPPER(NO_REGIAO) as NO_REGIAO, NO_ENTIDADE, NO_AREA_CURSO_PROFISSIONAL, NO_CURSO_EDUC_PROFISSIONAL, CASE when TP_LOCALIZACAO = '1' then 'urbana' else 'rural' end as LOCALIDADE, cast(QT_MAT_CURSO_TEC as int) as quant_matri_curso_tec FROM s3object as s WHERE s.NO_AREA_CURSO_PROFISSIONAL = 'Informação e comunicação' or s.NO_AREA_CURSO_PROFISSIONAL = 'Gestão e negócios' and not s.NO_AREA_CURSO_PROFISSIONAL = 'Infraestrutura';
+
+# 2 função de agregação:
+SELECT MIN(cast(QT_MAT_CURSO_TEC as int)), MAX(cast(QT_MAT_CURSO_TEC as int)), sum(cast(QT_MAT_CURSO_TEC as int)), ((sum(cast(QT_MAT_CURSO_TEC as int)))/(sum(cast(QT_CURSO_TEC as int)))) FROM s3object
+
+
+# função de data, não tem dado em tipo data, assim não tem como usar função de data no s3 select
