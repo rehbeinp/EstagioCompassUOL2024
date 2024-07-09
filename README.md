@@ -33,3 +33,6 @@
 * AWS Cloud Quest: Cloud Practioner. <p>
 * AWS Certified Cloud Practioner.<p>
 * Data & Analytics- PB - AWS Novo 5/10.
+
+### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06)
+* [Assunto da análise do desafio final.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Desafio.md#motivo-da-an%C3%A1lise) <p>
