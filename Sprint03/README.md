@@ -10,5 +10,5 @@
 ### [Exercício:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/2.Exerc%C3%ADcios.md)
 &nbsp;&nbsp;&nbsp;Após finalizar os cursos havia várias atividades que abordavam comandos Python e manipulação de dados. Sobre comandos Python haviam 20, e mais cinco atividades sobre manipulação de dados, de um dataset, com comandos python.
 
-### [Desafios:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/1.Desafios.md)
+### [Desafio:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/1.Desafios.md)
 &nbsp;&nbsp;&nbsp;O desafio era sobre manipulação de um dataset com o uso de bibliotecas pandas e matplotlib.
