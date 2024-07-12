@@ -16,22 +16,22 @@
 
 ### [Sprint 02:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint02)
 * SQL para Análise de Dados: Do Básico ao Avançado. <p>
-* AWS Skill Builder: Sales Accreditation.<p>
+* [AWS Skill Builder: Sales Accreditation.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Course_Completion%20_Certificate_Sales_AccreditationBusiness.pdf) <p>
 * Data & Analytics- PB - AWS Novo 2/10.
 
 ### [Sprint 03:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint03)
 * Python 3 - Do básico ao avançado. <p>
-* AWS Partner: Economia na nuven AWS. <p>
+* [AWS Partner: Economia na nuven AWS.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Economias%20na%20nuvem%20AWS.pdf) <p>
 * Data & Analytics- PB - AWS Novo 3/10.
 
 ### [Sprint 04:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint04)
 * Python 3 - Do básico ao avançado. <p>
-* AWS Partner: Accreditation Technical. <p>
+* [AWS Partner: Accreditation Technical.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Course%20Completion%20Certificate%20Fundamentos%20Tecnicos.pdf) <p>
 * Data & Analytics- PB - AWS Novo 4/10.
 
 ### [Sprint 05:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05)
-* AWS Cloud Quest: Cloud Practioner. <p>
-* AWS Certified Cloud Practioner.<p>
+* [AWS Cloud Quest: Cloud Practioner.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/Bradge%20AWS%20Cloud%20Quest%20Cloud%20Practitioner.png) <p>
+* AWS Certified Cloud Practioner. <p> 
 * Data & Analytics- PB - AWS Novo 5/10.
 
 ### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06)
