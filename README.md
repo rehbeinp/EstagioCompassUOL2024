@@ -35,4 +35,13 @@
 * Data & Analytics- PB - AWS Novo 5/10.
 
 ### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06)
-* [Assunto da análise do desafio final.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Desafio.md#motivo-da-an%C3%A1lise) <p>
+* [Desafio final - Assunto de análise](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/1.Desafio.md#assunto-de-an%C3%A1lise). <p>
+* [AWS Course AWS Glue Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20AWS%20Glue%20Getting%20Started.pdf). <p>
+* [AWS Course Amazon QuickSight - Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Amazon%20QuickSight%20-%20Getting%20Started.pdf).<p>
+* [AWS Course Best Practices for Data Warehousing with Amazon RedShift](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Best%20Practices%20for%20Data%20Warehousing%20with%20Amazon%20RedShift.pdf).<p>
+* [AWS Course Getting Started with Amazon Redshift](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Getting%20Started%20with%20Amazon%20Redshift.pdf).<p>
+* [AWS Course Introduction to Amazon Athena](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Introduction%20to%20Amazon%20Athena%20(Portuguese).pdf).<p>
+* [AWS Course Serverless Analytics](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Serverless%20Analytics%20(Portuguese).pdf).<p>
+* [AWS Skill Builder Amazon EMR Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Skill%20Builder%20Amazon%20EMR%20Getting%20Started.pdf).<p>
+* [AWS Skill Builder Fundamentos de Analytcs 2 na AWS](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Skill%20Builder%20Fundamentos%20de%20Analytcs%202%20na%20AWS.pdf).<p>
+* [AWS Skill Builder Noções Básicas de Analytcs na AWS 1](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Skill%20Builder%20Nocoes%20basicas%20de%20analytcs%20na%20AWS%201.pdf). <p>
