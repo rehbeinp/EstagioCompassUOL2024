@@ -8,7 +8,7 @@ def user(profilename):                 #função que pede a cahve de acesso do u
     return s3
 
 
-def criar_bucket(nome, s3):    #função criar bucket, parâmetro nome do bucket
+def criar_bucket(nome, s3):    #função criar bucket, parâmetro nome do bucket e usuário
     try:
         s3.create_bucket(Bucket=nome)
     except ClientError as e:
@@ -17,7 +17,7 @@ def criar_bucket(nome, s3):    #função criar bucket, parâmetro nome do bucket
     return True
 
 
-def list_buckets(s3):             #função lisatr buckets
+def list_buckets(s3):             #função listar buckets
     try:
         lista_buckets=[]
         s3_client = s3
