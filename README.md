@@ -9,32 +9,32 @@
 # Sprints
  &nbsp;&nbsp;&nbsp; As Sprints foram formadas por diversos conteúdos, aqui abordarei os principais tópicos de cada.
 
-### [Sprint 01:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint01) <p>
+### [Sprint 01:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/README.md) <p>
 * Linux para Desenvolvedores. <p>
 * Git e GitHub do básico ao avançado. <p>
 * Data & Analytics- PB - AWS Novo 1/10.
 
-### [Sprint 02:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint02)
+### [Sprint 02:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint02/README.md)
 * SQL para Análise de Dados: Do Básico ao Avançado. <p>
 * [AWS Skill Builder: Sales Accreditation.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Course_Completion%20_Certificate_Sales_AccreditationBusiness.pdf) <p>
 * Data & Analytics- PB - AWS Novo 2/10.
 
-### [Sprint 03:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint03)
+### [Sprint 03:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint03/README.md)
 * Python 3 - Do básico ao avançado. <p>
 * [AWS Partner: Economia na nuven AWS.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Economias%20na%20nuvem%20AWS.pdf) <p>
 * Data & Analytics- PB - AWS Novo 3/10.
 
-### [Sprint 04:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint04)
+### [Sprint 04:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint04/README.md)
 * Python 3 - Do básico ao avançado. <p>
 * [AWS Partner: Accreditation Technical.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/AWS%20Course%20Completion%20Certificate%20Fundamentos%20Tecnicos.pdf) <p>
 * Data & Analytics- PB - AWS Novo 4/10.
 
-### [Sprint 05:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05)
+### [Sprint 05:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05/README.md)
 * [AWS Cloud Quest: Cloud Practioner.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/Bradge%20AWS%20Cloud%20Quest%20Cloud%20Practitioner.png) <p>
 * AWS Certified Cloud Practioner. <p> 
 * Data & Analytics- PB - AWS Novo 5/10.
 
-### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06)
+### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06/README.md)
 * [Desafio final - Assunto de análise](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/1.Desafio.md#assunto-de-an%C3%A1lise). <p>
 * [AWS Course AWS Glue Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20AWS%20Glue%20Getting%20Started.pdf). <p>
 * [AWS Course Amazon QuickSight - Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/4.Certificados/AWS%20Course%20Amazon%20QuickSight%20-%20Getting%20Started.pdf).<p>
