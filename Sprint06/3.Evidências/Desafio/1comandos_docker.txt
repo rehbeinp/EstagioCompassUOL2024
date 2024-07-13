@@ -1,0 +1,11 @@
+#buildar a imagem
+docker build -t create-upload-s3 . 
+
+#run interativo com referencia de volume
+docker run -it --name rawzone-s3 -v banco-de-dados:/RawZone create-upload-s3 bash
+
+#criar volume
+docker volume create banco-de-dados
+
+#mostrar volume
+docker volume ls

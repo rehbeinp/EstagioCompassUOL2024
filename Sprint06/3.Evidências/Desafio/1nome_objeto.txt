@@ -1,0 +1,3 @@
+Raw/Local/CSV/Movies/2024/07/11/movies.CSV
+
+Raw/Local/CSV/Series/2024/07/11/series.CSV
