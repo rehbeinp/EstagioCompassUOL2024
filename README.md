@@ -31,7 +31,7 @@
 
 ### [Sprint 05:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05/README.md)
 * [AWS Cloud Quest: Cloud Practioner.](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Certificados/Bradge%20AWS%20Cloud%20Quest%20Cloud%20Practitioner.png) <p>
-* AWS Certified Cloud Practioner. <p> 
+* [AWS Certified Cloud Practioner](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/3.Certificados/AWS%20Skill%20Builder%20Course%20Curso-padr%C3%A3o%20de%20prepara%C3%A7%C3%A3o%20para%20o%20exame.pdf). <p> 
 * Data & Analytics- PB - AWS Novo 5/10.
 
 ### [Sprint 06:](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint06/README.md)
