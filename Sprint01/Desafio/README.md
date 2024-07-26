@@ -13,7 +13,7 @@
 <img src=../imgs/Script_processamento_de_vendas.png width=300>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src=../imgs/antes_de_gerar_relatorio_fina.png width=350>
 <p>
 
-&nbsp;&nbsp;&nbsp; O  [arquivo processamento_de_vendas.sh](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/2.Evid%C3%AAncias/processamento_de_vendas.sh) se encontra na pasta 2.Evidências.
+&nbsp;&nbsp;&nbsp; O  [arquivo processamento_de_vendas.sh](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/Evid%C3%AAncias/processamento_de_vendas.sh) se encontra na pasta 2.Evidências.
 
 <p>
 
@@ -23,10 +23,10 @@
 &nbsp;&nbsp;&nbsp;Script de consolidador_processamento_de_vendas.sh e terminal após gerar o relatório final:
 <p>
 
-<img src=../imgs/Script_consolidador_de_processamento_de_vendas.png width=350> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=../imgs/gerando_relatorio_fina.png width=300>
+<img src=../../imgs/Script_consolidador_de_processamento_de_vendas.png width=350> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=../../imgs/gerando_relatorio_fina.png width=300>
 <p>
 
-&nbsp;&nbsp;&nbsp; O arquivo  [consolidador_processamento_de_vendas.sh](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/2.Evid%C3%AAncias/consolidador_de_processamento_de_vendas.sh) se encontra na pasta 2.Evidências.
+&nbsp;&nbsp;&nbsp; O arquivo  [consolidador_processamento_de_vendas.sh](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/Evid%C3%AAncias/consolidador_de_processamento_de_vendas.sh) se encontra na pasta 2.Evidências.
 
 <p>
 <p>
@@ -34,10 +34,10 @@
 &nbsp;&nbsp;&nbsp;Visualização de parte do relatório final no terminal:
 <p>
 
-<img src=../imgs/cat-de-relatorio_fina.png width=350>
+<img src=../../imgs/cat-de-relatorio_fina.png width=350>
 <p>
 
-&nbsp;&nbsp;&nbsp; O arquivo  [relatório_fina.txt](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/2.Evid%C3%AAncias/relatorio_fina.txt) se encontra na pasta 2.Evidências.
+&nbsp;&nbsp;&nbsp; O arquivo  [relatório_fina.txt](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/Evid%C3%AAncias/relatorio_fina.txt) se encontra na pasta 2.Evidências.
 <p>
 
 ## Dificuldades durante as atividades
