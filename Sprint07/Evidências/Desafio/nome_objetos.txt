@@ -1,0 +1,5 @@
+# nome objeto
+Raw/TMDB/JSON/2024/07/23/generos_filmes.json
+
+# nome bucket
+raw-zone-paula-rehbein
