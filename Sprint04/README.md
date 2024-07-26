@@ -7,10 +7,10 @@
 
 &nbsp;&nbsp;&nbsp;No curso da [AWS Partner: Accreditation Technical](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/4.Certificados/AWS%20Course%20Completion%20Certificate%20Fundamentos%20Tecnicos.pdf) foram apresentados conhecimentos técnicos sobre as ferramentas da AWS, no curso Fundamentos Técnicos, principalmente sobre as instâncias EC2, o armazenamento no S3, formas de segurança do IAM e a práticidade que o Cloud Watch oferece para controle na nuvem. Ainda no curso de Credenciamento Técnico foram vistos os pilares de uma aplicação bem arquitetada. Os certificados de ambos os curso se encontram no diretório "Certificados", e possui, respectivamente, o nome "AWS Course Completion Certificate Fundamentos" e "AWS Course Completion Certificate Credenciamento".
 
-### [Atividades](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/2.Atividades.md):
+### [Atividades](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/Exerc%C3%ADcios/Atividades.md):
 &nbsp;&nbsp;&nbsp;As atividades eram sete, sendo sobre assuntos diversos, sendo necessária a utilização de funções em muitas vezes, mas princilpamente eram necessários o uso de comando expecíficos como o map, filter, round e zip. As atividades não eram muito complexas, as dúvidas que tive quando não tiradas com as aulas disponibilizadas, eram amenizadas com pesquisa. As atividades estão disponíveis no diretório "atividades", que está no diretório "3.Evidências". 
 
-### [Desafios](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/1.Desafio.md): 
+### [Desafios](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/Desafio/README.md): 
 &nbsp;&nbsp;&nbsp;O desafio sobre Docker era dividido em três partes, sendo a primeira e a terceira sobre criar uma imagem no docker e rodar um *container* a partir dela, e a segunda sobre reutilização de container.
 
 
