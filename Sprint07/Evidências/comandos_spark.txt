@@ -1,0 +1,28 @@
+# iniciar o spark
+pyspark
+
+# importar aplicação Spark
+from pyspark import SparkContext, SparkConf
+
+# criar aplicação
+conf = SparkConf().setAppName("WordCount")
+
+# criar instancia com SparkContext
+sc = SparkContext.getOrCreate()
+
+#Cria o RDD com o conteúdo do README.md
+contentRDD = sc.textFile("/home/envyan/README.md")
+
+#Elimina as linha em branco
+filter_empty_lines = contentRDD.filter(lambda x: len(x) > 0)
+
+#Splita as palavras pelo espaço em branco entre elas
+words = filter_empty_lines.flatMap(lambda x: x.split(' '))
+
+#Map-Reduce da contagem das palavras
+wordcount = words.map(lambda x:(x,1)) \
+.reduceByKey(lambda x, y: x + y) \
+.map(lambda x: (x[1], x[0])).sortByKey(False)
+
+# salvar o arquivo 
+wordcount.saveAsTextFile("/home/envyan/Wordcount")

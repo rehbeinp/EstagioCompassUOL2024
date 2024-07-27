@@ -1,0 +1,1 @@
+StructType(List(StructField(nome,StringType,true),StructField(sexo,StringType,true),StructField(total,IntegerType,true),StructField(ano,StringType,true)))
