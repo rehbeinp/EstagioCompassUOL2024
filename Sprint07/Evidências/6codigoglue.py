@@ -47,5 +47,5 @@ glueContext.write_dynamic_frame.from_options(
     
 job.commit()
 
-#resultado no arquivo= 'run-1722030799191-part-r-00000'
+
 ''' qual foi o nome feminino com mais registros e em que ano ocorreu.'''

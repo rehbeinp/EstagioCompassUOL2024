@@ -42,9 +42,9 @@ linha=(f"linhas totais: {linhas}.")
 with open("total_linhas.json", "w") as arquivo:
         arquivo.write(linha)
         
-bucket_name="aws-glue-assets-851725533691-us-east-1"
+bucket_name="aws-glue-assets-us-east-1"
 file_name = 'total_linhas.json'
-object_name='aws-glue-assets-851725533691-us-east-1/sparkHistoryLogs/total_linhas.json'
+object_name='aws-glue-assets-us-east-1/sparkHistoryLogs/total_linhas.json'
 resposta = s3.upload_file(file_name, bucket_name, object_name)
 
     

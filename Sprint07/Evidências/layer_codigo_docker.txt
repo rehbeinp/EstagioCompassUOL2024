@@ -1,0 +1,22 @@
+# build
+docker build -t layerchamdaapi .
+
+# run container interativo com terminal bash
+docker run -it layerchamdaapi bash
+
+# comandos shell no layerchamdaapi
+cd ~
+mkdir layer_dir                # criando diretórios 
+cd layer_dir/               
+mkdir python
+cd python/
+pip3 install requests -t .     #instalando requests
+cd ..
+zip -r camada-request.zip .
+
+# comandos em outro terminal
+docker container ls
+docker cp <id do container>:/root/layer_dir/camada-request.zip ./
+
+# adicionar camada na função lambda chamadaAPI
+

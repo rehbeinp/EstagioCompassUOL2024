@@ -37,9 +37,9 @@ dataframe = spark.read.schema(schema).csv(source_file)
 with open("schema_dataframe.json", "w") as arquivo:
         arquivo.write(schema)
         
-bucket_name="aws-glue-assets-851725533691-us-east-1"
+bucket_name="aws-glue-assets-us-east-1"
 file_name = 'schema_dataframe.json'
-object_name='sparkHistoryLogs/schema_dataframe.json'
+object_name='/schema_dataframe.json'
 resposta = s3.upload_file(file_name, bucket_name, object_name)
 
 job.commit()

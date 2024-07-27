@@ -45,3 +45,7 @@
 * [AWS Skill Builder Amazon EMR Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Certificados/AWS%20Skill%20Builder%20Amazon%20EMR%20Getting%20Started.pdf).<p>
 * [AWS Skill Builder Fundamentos de Analytcs 2 na AWS](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Certificados/AWS%20Skill%20Builder%20Fundamentos%20de%20Analytcs%202%20na%20AWS.pdf).<p>
 * [AWS Skill Builder Noções Básicas de Analytcs na AWS 1](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Certificados/AWS%20Skill%20Builder%20Nocoes%20basicas%20de%20analytcs%20na%20AWS%201.pdf). <p>
+
+### [Sprint 07](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint07/README.md): 
+* Curso Spark.
+* [Desafio final - Parte 02](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint07/Desafio/README.md#desafio-final---parte-02).
