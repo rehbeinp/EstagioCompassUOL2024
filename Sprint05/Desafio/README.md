@@ -12,27 +12,27 @@
 <p>
 &nbsp;&nbsp;&nbsp; Assim realizei duas querys, uma com parâmetros lógicos, função condicional, função de converção e função de string e outra com as funções de agregação. <p> 
 
-&nbsp;&nbsp;&nbsp; A [primeira query](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/C%C3%B3digos/desafio01.py):
+&nbsp;&nbsp;&nbsp; A [primeira query](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/desafio01.py):
 - Converti o ano '2023', que estava em string, para tipo data deixando-o '2023-01-01'.
 - Realizei o upper na região que as escolas residem, deixando tudo em caixa alta.
 - Selecionei o nome da entidade, área do curso e nome curso profissionalizante em que a área do curso fosse de Informação e comunicação ou de Gestão e negócios mas não fossem de Infraestrutura, isso usando parâmetros lógicos.
 - Coloquei uma condição de mudar o tipo da informação na localidade (TP_LOCALIZACAO) colocando ao invés de números '1' e '2', os correspondentes que é urbana e rural (de acordo com o manual dos dados disponibilizado).
 - Converti a quantidade de matrículas por curso técnico de string para inteiro. <p>
-Resultado: [results_desafio01.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/Resultados/results_desafio01.csv) <p>
+Resultado: [results_desafio01.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/results_desafio01.csv) <p>
 <img src=../../imgs/img_desafio01.png width=600> <p>
-&nbsp;&nbsp;&nbsp; O código que usei nas consultas, nomeado de [desafio01.py](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/C%C3%B3digos/desafio01.py) , está na pasta Códigos que está no diretório Evidências. E o resultado, nomeado  [results_desafio01.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/Resultados/results_desafio01.csv) está na pasta Resultados, que está na pasta 2.Evidências.
+&nbsp;&nbsp;&nbsp; O código que usei nas consultas, nomeado de [desafio01.py](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/desafio01.py) , está na pasta Códigos que está no diretório Evidências. E o resultado, nomeado  [results_desafio01.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/results_desafio01.csv) está na pasta Resultados, que está na pasta 2.Evidências.
 
 <p>
 
-&nbsp;&nbsp;&nbsp; Na [segunda query](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/C%C3%B3digos/desafio02.py): <p>
+&nbsp;&nbsp;&nbsp; Na [segunda query](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/desafio02.py): <p>
 - Utilizei o min selecionando o menor número de matrículas que ocorreu em 2023 em algum curso.
 - Utilizei o max selecionando o maior número de matrículas que ocorreu em 2023 em algum curso.
 - Utilizei o sum que resultou no total de cursos que teve em 2023.
 - Utilizei o sum que resultou no total de mátriculas que teve em 2023.
 - Utilizei o sum que resultou no total de mátriculas e no total de cursos técnicos e dividi, conseguindo a média de matrículas por curos técnico que teve me 2023.<p>
-Resultado: [results_desafio02.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/Resultados/results_desafio02.csv) <p>
+Resultado: [results_desafio02.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/results_desafio02.csv) <p>
 <img src=../../imgs/img_desafio02.png width=600> <p>
-&nbsp;&nbsp;&nbsp; O código que usei nas consultas, nomeado de [desafio02.py](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/C%C3%B3digos/desafio02.py), está na pasta Códigos que está no diretório 2.Evidências. E o resultado, nomeado [results_desafio02.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/2.Evid%C3%AAncias/Resultados/results_desafio02.csv), está na pasta Resultados que está na pasta Evidências. 
+&nbsp;&nbsp;&nbsp; O código que usei nas consultas, nomeado de [desafio02.py](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/desafio02.py), está na pasta Códigos que está no diretório 2.Evidências. E o resultado, nomeado [results_desafio02.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/results_desafio02.csv), está na pasta Resultados que está na pasta Evidências. 
 
 &nbsp;&nbsp;&nbsp; Não foi possível realizar a função de data pois os dados com informações sobre o ano estavam em tipo string, realizei a converção para tipo data, mas o S3 Select, por ser um pouco limitado, não permite a utilização de colunas criadas na consulta, só permite a utilização de colunas que ja estão na tabela, me impedindo de usar a função de data.
 
