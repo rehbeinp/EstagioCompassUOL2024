@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp; O desafio foi formado pelo tratamento dos dados ingeridos na primeira (dados do CSV) e na segunda etapa (dados do JSON). Os dados deveriam ser trabalhados no AWS Glue, se tornando limpos e confiáveis, e ser armazenados no S3 na camada Truested, para posteriormente serem consumidos. <p>
 &nbsp;&nbsp;&nbsp;Iniciando o desafio no AWS Glue, percebi que muitos dados essênciais para a minha consulta, como o ano de nascimento dos artistas e o gênero dos filmes, estavam nulos. Para conseguir um resultado final mais precisa e não descartar todos os dados nulos (que eram muitos), decidi fazer uma chamada de API que traria esses dados.<p>
 
-*  [Chamada API artisatas](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/api_artista_nome_id_birthday_gênero.py): Assim organizei o código em funções que seriam chamadas na hora certa. 
+*  [Chamada API artistas](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/api_artista_nome_id_birthday_gênero.py): Assim organizei o código em funções que seriam chamadas na hora certa. 
     * Função upload_objeto, que faz upload do arquivo para o bucket atravez do nome do aquivo.  
     * Função escrevendo_arquivo, que escreve um arquivo recebendo os dados e o nome do arquivo como parâmetro, retorna o nome do arquivo.
     * Função gênero_filmes, que gera os genêros e os ids dos gêneros dos filmes, retorna uma lista contento os dados.
