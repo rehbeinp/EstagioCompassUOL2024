@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp; As atividades de gerar dados em massa deveriam ser desenvolvidas em Python.
 * Etapa 01: Inicializar uma lista com 250 números aleatórios,  [código](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/ativ1_números_aleatórios.py).
 * Etapa 02: Declar uma lista contendo 20 animais, ordená-los em ordem ordem descente, interar os itens e gravá-los em um arquivo em formato csv, [código](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/ativ1_animais_aleatórios.py).
-* Etapa 03: Gerar um Dataset com 10 milhões de nomes de pessoas, [código](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/ativ1_nomes_aleatórios.py).
+* Etapa 03: Gerar um Dataset com 10 milhões de nomes de pessoas, [código](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/ativ1_nomes_aleatorios.py).
 
 ### Manipulação de dados com Apache Spark:
 &nbsp;&nbsp;&nbsp; Nessa atividade foi usado o Dataset de nomes gerado na atividade anterior. 
