@@ -1,7 +1,9 @@
 # Sprint 05
 ## Desafios:
-&nbsp;&nbsp;&nbsp; Após a finalização dos curso havia o desafio para ser realizado. Ele consistia em manipulação de dados no S3 Select. <p>
-&nbsp;&nbsp;&nbsp; Os dados manipulados deviam ser conseguidos na página de dados abertos do governo e esses dados deveriam diferenciar de todos os colegas. A tabela que escolhi é sobre os cursos técnicos que existem no Brasil em 2023, essa tabela apresenta desde a região que a escola reside até o número de matrículas que existem em cada curso. A tabela de dados que escolhi está no diretório Tableas_Consulta, que está em 2.Evidências, e tem o nome de [escolas_tecnicas_2023.csv](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05/Evid%C3%AAncias/Tabela_Consulta). <p>
+&nbsp;&nbsp;&nbsp; Após a finalização dos curso havia o desafio para ser realizado. Ele consistia em manipulação de dados no S3 Select. 
+
+&nbsp;&nbsp;&nbsp; Os dados manipulados deviam ser conseguidos na página de dados abertos do governo e esses dados deveriam diferenciar de todos os colegas. A tabela que escolhi é sobre os cursos técnicos que existem no Brasil em 2023, essa tabela apresenta desde a região que a escola reside até o número de matrículas que existem em cada curso. A tabela de dados que escolhi está no diretório Tableas_Consulta, que está em 2.Evidências, e tem o nome de [escolas_tecnicas_2023.csv](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint05/Evid%C3%AAncias/escolas_tecnicas_2023.csv).
+
 &nbsp;&nbsp;&nbsp; No desafio deveriam ser realizadas o menor número de querys possível e atender aos requisitos tendo ao menos:
 * 2 parâmetros lógicos;
 * 1 função condicional;
@@ -9,8 +11,8 @@
 * 1 função de string;
 * 2 funções de agregação;
 * 1 função de data.
-<p>
-&nbsp;&nbsp;&nbsp; Assim realizei duas querys, uma com parâmetros lógicos, função condicional, função de converção e função de string e outra com as funções de agregação. <p> 
+
+&nbsp;&nbsp;&nbsp; Assim realizei duas querys, uma com parâmetros lógicos, função condicional, função de converção e função de string e outra com as funções de agregação. 
 
 &nbsp;&nbsp;&nbsp; A [primeira query](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/desafio01.py):
 - Converti o ano '2023', que estava em string, para tipo data deixando-o '2023-01-01'.
@@ -31,7 +33,8 @@ Resultado: [results_desafio01.csv](https://github.com/rehbeinp/EstagioC_UOL/blob
 - Utilizei o max selecionando o maior número de matrículas que ocorreu em 2023 em algum curso.
 - Utilizei o sum que resultou no total de cursos que teve em 2023.
 - Utilizei o sum que resultou no total de mátriculas que teve em 2023.
-- Utilizei o sum que resultou no total de mátriculas e no total de cursos técnicos e dividi, conseguindo a média de matrículas por curos técnico que teve me 2023.<p>
+- Utilizei o sum que resultou no total de mátriculas e no total de cursos técnicos e dividi, conseguindo a média de matrículas por curos técnico que teve me 2023.
+
 Resultado: [results_desafio02.csv](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Evid%C3%AAncias/results_desafio02.csv)
 
 <img src=../Evidências/img_desafio02.png width=600>

@@ -14,7 +14,7 @@
 
 <img src= ..\Evidências\etapa2_reutilizar_container.png width=500>
 
-### [Etapa 03](https://github.com/rehbeinp/EstagioC_UOL/tree/main/Sprint04/Evid%C3%AAncias/etapa03):
+### Etapa 03:
 &nbsp;&nbsp;&nbsp; Na terceira etapa era necessário criar um Script Python que recebia uma *string* e devolvia um código *hash* por meio do algoritmo SHA-1, em uma impressão na tela por meio do *hexdigest*. Assim, criei um script chamado *[doc.py](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/Evid%C3%AAncias/etapa3_doc.py)* e um *[Dockerfile](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint04/Evid%C3%AAncias/etapa3_Dockerfile)* e gerei uma imagem, chamada *mascarar-dados* a partir de um **build**. E com *mascarar-dados* rodei o container *cripto* que gerou então o hash a partir da string fornecida. Execução na imagem a baixo. 
 
 <img src= ..\Evidências\etapa03_mascarar_dados.png width=500>

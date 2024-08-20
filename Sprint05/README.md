@@ -6,5 +6,5 @@
 
 &nbsp;&nbsp;&nbsp; O curso [AWS Certified Cloud Practioner](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Certificados/AWS%20Skill%20Builder%20Course%20Curso-padr%C3%A3o%20de%20prepara%C3%A7%C3%A3o%20para%20o%20exame.pdf) era uma preparação para a prova da AWS, foram vistos conceitos como as boas práticas de estrutura e os tipos de serviços oferecidos em Infraestrutura como Serviço, Plataforma como Serviço, Software como Serviço, entre outros. Foram apresentadas as ferramentas disponíveis na AWS para cumprir com as boas práticas de estrutura da AWS.
 
-## [Desafios](hhttps://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Desafio/README.md):
+## [Desafios](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint05/Desafio/README.md):
 &nbsp;&nbsp;&nbsp; Após a finalização dos curso havia o desafio para ser realizado. Ele consistia em manipulação de dados no S3 Select.
