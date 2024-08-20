@@ -52,5 +52,5 @@
 * [Desafio final - Parte 03](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Desafio/README.md#desafio-final---parte-03).
 
 ### [Sprint 09](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint09/README.md):
-* [Desafio final - Parte 04](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Desafio/README.md#desafio-final---parte-04).
+* [Desafio final - Parte 04](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint09/Desafio/README.md#desafio-final---parte-04).
 * [Alteração na Pergunta do Desafio Final](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint09/Desafio/README.md#altera%C3%A7%C3%A3o-na-pergunta-do-desafio-final).
