@@ -7,14 +7,14 @@
 ### Lab Athena:
 &nbsp;&nbsp;&nbsp; A segunda atividade era sobre usar o serviço Athena. Deveria ser feita uma counsulta no Athena com os dados do arquivo nomes.csv que se encontrava no bucket criado no Lab S3.<p>
 Querys que foram geradas:<p>
-<img src=../../imgs/resultado_querys.png width=300> 
+<img src=../Evidências/resultado_querys.png width=300> 
 ### Lab Lambda:
 &nbsp;&nbsp;&nbsp; A terceira atividade era necessário criar uma função e uma layer no lambda, e posteriormente adicinar essa layer à função. <p>
 Layer Lambda:<p>
-<img src=../../imgs/camadas.png width=300> <p>
+<img src=../Evidências/camadas.png width=300> <p>
 
 Função Lambda:<p>
-<img src=../../imgs/funcao_lambda.png width=300> <p>
+<img src=../Evidências/funcao_lambda.png width=300> <p>
 
 Estado final do Bucket: <p>
-<img src=../../imgs/estado_final_bucket.png width=300> 
+<img src=../Evidências/estado_final_bucket.png width=300> 

@@ -1,11 +1,12 @@
 # Quem sou eu?
- <img src=./imgs/paularehbein.perfil.jpg width=100>
- &nbsp;&nbsp;&nbsp;Olá, meu nome é Paula Rehbein, tenho 21 anos e moro atuamente em Frederico Westphalen. Aqui eu estudo na Universidade Federal de Santa Maria campus FW, cursando Sistemas de Informação. Estou no primeiro semestre de SI e não sou nova apenas no curso, mas também no mercado de trabalho, assim o estágio da Compass é a minha primeira experiência profissional na área de TI. Estou muito animada com o que posso aprender e espero dar o meu melhor durante todo o percurso do estágio.<p>
- &nbsp;&nbsp;&nbsp; No meu tempo livre me ocupo com esporte, como academia e futebol, também gosto de tocar instrumentos (toco ukulele amadoramente), e ainda me agrada ler livros e sair com amigos. Quando tenho oportunidade, vou para minha cidade natal ver a minha família, para brincar com minha sobrinha, e matar a saudade dos pais e irmãos. E esse é um pequeno resumo da minha vida.
-<p>
+<img src=Sprint01/Evidências/paularehbein.perfil.jpg width=100>
+
+&nbsp;&nbsp;&nbsp;Olá, meu nome é Paula Rehbein, tenho 22 anos e moro atuamente em Frederico Westphalen. Aqui eu estudo na Universidade Federal de Santa Maria campus FW, cursando Sistemas de Informação. Estou no segundo semestre de SI e não sou nova apenas no curso, mas também no mercado de trabalho, assim o estágio da Compass é a minha primeira experiência profissional na área de TI. Estou muito animada com o que posso aprender e espero dar o meu melhor durante todo o percurso do estágio.
+
+&nbsp;&nbsp;&nbsp; No meu tempo livre me ocupo com esporte, como academia e futebol, também gosto de tocar instrumentos (toco ukulele amadoramente), e ainda me agrada ler livros e sair com amigos. Quando tenho oportunidade, vou para minha cidade natal ver a minha família, para brincar com minha sobrinha, e matar a saudade dos pais e irmãos. E esse é um pequeno resumo da minha vida.
 
 # Sprints
- &nbsp;&nbsp;&nbsp; As Sprints foram formadas por diversos conteúdos, aqui abordarei os principais tópicos de cada.
+&nbsp;&nbsp;&nbsp; As Sprints foram formadas por diversos conteúdos, aqui abordarei os principais tópicos de cada.
 
 ### [Sprint 01:](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint01/README.md) <p>
 * Linux para Desenvolvedores. <p>

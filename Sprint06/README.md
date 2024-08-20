@@ -1,6 +1,6 @@
 # Sprint 06
 ## Conteúdo da Sprint:
-&nbsp;&nbsp;&nbsp; A Sprint 06 foi composta por diversos cursos de preparação da AWS, por atividades no console da AWS, pela definição do assunto do desafio final e pelo desafio da Sprint que compõem a primeira parte do desafio final. <p>
+&nbsp;&nbsp;&nbsp; A Sprint 06 foi composta por diversos cursos de preparação da AWS, por atividades no console da AWS, pela definição do assunto do desafio final e pelo desafio da Sprint que compõem a primeira parte do desafio final.
 
 ## Cursos:
 * [AWS Course AWS Glue Getting Started](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint06/Certificados/AWS%20Course%20AWS%20Glue%20Getting%20Started.pdf).

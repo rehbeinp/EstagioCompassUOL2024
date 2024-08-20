@@ -1,7 +1,7 @@
 # Sprint 03
 ## Exercícios:
 ### Atividades sobre comando python: 
-&nbsp;&nbsp;&nbsp;Não apresentaram muitas dificuldades, eram atividades simples (como escrever os números pares de 1 até 20, ou remover elementos duplicados de uma lista) que com o conhecimento do curso e da faculadade, foram logo resolvidas. As atividades são:<p>
+&nbsp;&nbsp;&nbsp;Não apresentaram muitas dificuldades, eram atividades simples (como escrever os números pares de 1 até 20, ou remover elementos duplicados de uma lista) que com o conhecimento do curso e da faculadade, foram logo resolvidas. As atividades são:
 * [Exercício 1](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex1.py): Código em Python que crie variáveis para armazenar o nome e a idade de uma pessoa, juntamente com 
 seus valores correspondentes.
 * [Exercício 2](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex2.py): Escreva um código Python que use a função range() para adicionar três números em uma lista(Esta lista deve chamar-se 'números')  e verificar se esses três números são pares ou ímpares.
@@ -35,7 +35,7 @@ habilidades de voar e emitir som.
 * [Exercício 23](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex23.py): Crie uma classe  Calculo  que contenha um método que aceita dois parâmetros, X e Y, e retorne a soma dos dois. 
 * [Exercício 24](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex24.py): Crie uma classe Ordenadora que contenha um atributo listaBaguncada e que contenha os métodos 
 ordenacaoCrescente e ordenacaoDecrescente.
-* [Exercício 25](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex25.py): Crie uma classe Avião que possua os atributos modelo, y, w e z. <p>
+* [Exercício 25](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/ativ_ex25.py): Crie uma classe Avião que possua os atributos modelo, y, w e z. 
 
 ### Atividades sobre manipulação de dados: 
 &nbsp;&nbsp;&nbsp;Usando comando python causaram um pouco de dificuldade inicialmente, mas depois da resolução da primeira parte as outras partes ficaram mais simples. Essas atividades, dividídas nas partes 1 a 5, implicavam em selecionar dados de um dataset chamado "actors.csv", dados sobre ator/atriz com maior quantidade de filmes por exemplo. Etapas e resultados: 
@@ -51,4 +51,3 @@ ordenacaoCrescente e ordenacaoDecrescente.
     * [Resultado](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint03/Evid%C3%AAncias/etl_etapa05.txt). 
 
 Todas as partes resultantes da atividade(os arquivos txt), juntamente com os códigos (arquivos py) da sua realização e o dataset, estão presentes no diretório "Evidências" dessa Sprint.
-<p>
