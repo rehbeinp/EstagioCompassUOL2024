@@ -6,6 +6,7 @@ from awsglue.context import GlueContext
 from awsglue.job import Job
 import pyspark.sql.functions as Func
 from pyspark.sql.functions import *
+from pyspark.sql.functions import round
 from pyspark.sql.types import StructType, StructField, IntegerType, StringType
 from awsglue.dynamicframe import DynamicFrame
 import pandas as pd
@@ -94,14 +95,17 @@ dataframe_csv_GEN_COMPL = df_csv_all_years.filter(df_csv_all_years.generoFilme !
 #fazendo um join com os dados csv que nao tem genero pelo idFilme
 dataframe_CSV_JOIN_GEN = df_CSV_GEN_NULO.join(df_uniao_fil, df_CSV_GEN_NULO.idFilme == df_uniao_fil.idFilme, 'inner').select(df_CSV_GEN_NULO.idFilme, df_CSV_GEN_NULO.tituloPincipal, df_uniao_fil.generoFilme, df_CSV_GEN_NULO.anoLancamento, df_CSV_GEN_NULO.notaMedia, df_CSV_GEN_NULO.generoArtista, df_CSV_GEN_NULO.nomeArtista, df_CSV_GEN_NULO.anoNascimento)
 
-
 # fazendo a uniao dos csv que tem os generos com o que foi gerado
 df_csv_dados_completos =  dataframe_csv_GEN_COMPL.union(dataframe_CSV_JOIN_GEN)
 
 # removendo filme com dados trocados
-df_csv_dados_completos = df_csv_dados_completos.filter(dataframe_csv.idFilme != "tt15422244")
+df1 = df_csv_dados_completos.filter(dataframe_csv.idFilme != "tt15422244")
 
-#saida do data frame
-df_csv_dados_completos.write.partitionBy("anoLancamento").parquet('s3://raw-zone-paula-rehbein/Truested/PARQUET/data_hoje/filmes')
+# renomeando coluna pincipal, alteração na sprint 09
+df1 = df1.withColumnRenamed("tituloPincipal", "tituloPrincipal")
+df1 = df1.distinct()
+
+#saida do data frame,  alteração na sprint 09
+df1.write.partitionBy("anoLancamento").parquet(f'{target_path}PARQUET/{data_hoje}/filmes')
 
 job.commit()

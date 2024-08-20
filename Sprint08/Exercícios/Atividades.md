@@ -12,7 +12,7 @@
 * Etapa 01: criar o dataframe a partir do arquivo de nomes aleatórios e listar alguns nomes.
 * Etapa 02: renomear a coluna para nomes, e imprimir 10 linhas do dataframe:
 
-<img src= ../Evidências\ativ2_etapa1.png width=500 >
+<img src= ../Evidências/ativ2_etapa1.png width=500 >
 
 * Etapa 03: adicionar uma noma coluna chamada escolaridade ao dataframe, dando os valores 'médio', 'fundamental' e 'superior' de forma aleatória. Não consegui fazer uso do Spark em um Script Python e usei apenas o terminal, sendo assim era impossível, até onde eu sei, gerar os valores de forma aleatória a partir do Spark, então criei um [código](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint08/Evid%C3%AAncias/ativ1_escolaridade.py) em python que gerava essa coluna. Para atribuir essas valores aos nomes usei o método rand, que gera números aleatórios entre 0 e 1, adicionando uma coluna rand em cada dataframe.
 

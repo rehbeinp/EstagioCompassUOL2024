@@ -2,7 +2,7 @@
 ## Desafio final - Parte 01
 ### Assunto de análise:
 &nbsp;&nbsp;&nbsp;Antes do início da primeira parte do desafio é necessário definir sobre o que vai ser a análise final e o assunto de foco do desafio. Os assuntos que vou desenvolver serão:
-* Que idade os atores e atrizes tem quando fazem filmes/séries bem avaliados? Com quais gêneros que eles se destacaram com essa idade?
+* Que idade os atores e atrizes tem quando fazem séries/filmes bem avaliados? Com quais gêneros que eles se destacaram com essa idade?
 * Quais os filmes de Sci-FI mais bem avaliados nos anos 2000 (2000-2009)? Qual a porcentagem de mulheres que trabalharam nesses filmes?
 
 <p>

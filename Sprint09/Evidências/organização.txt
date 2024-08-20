@@ -1,0 +1,37 @@
+
+colunas em trusted: 
+idFilme,
+tituloPrincipal,
+anoLancamento,
+generoFilme,
+notaMedia,
+generoArtista,
+nomeArtista,
+anoNascimento,
+
+
+colunas geradas:
+idArtista
+secLancamento
+idGeneroFilme
+
+
+colunas alteradas:
+generoFilme
+
+
+dimensão filme:
+idFilme, tituloPincipal, anoLancamento
+
+
+dimensão artista:
+idArtista, nomeArtista, generoArtista, anoNascimento
+
+
+dimensão genero:
+idGeneroFilme, generoFilme
+
+
+fato:
+idFilme, idArtista, notaMedia, idGeneroFilme, secLancamento
+
