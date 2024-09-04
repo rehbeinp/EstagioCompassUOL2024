@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp; O desafio foi formado pela formação de Dashboard que respondessem ou falassem sobre o assunto definido para análise.
 
 
-###  Idade Genero e Participação dos Artistas em Filmes de Fantasia Sci-Fi e Categorias de Destaque: 
+###  [Idade Genero e Participação dos Artistas em Filmes de Fantasia Sci-Fi e Categorias de Destaque](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Evid%C3%AAncias/Idade%20Genero%20e%20Participa%C3%A7%C3%A3o%20dos%20Artistas%20em%20Filmes%20de%20Fantasia%20Sci-Fi%20e%20Categorias%20de%20Destaque.pdf): 
 
 
 &nbsp;&nbsp;&nbsp; O assunto de análise definido na Sprint 06 mudou ao longo das Sprints, sendo formado no fim por duas perguntas que se complementam. Ambas as perguntas e os insigths conseguidos a partir do Dashboard são:
