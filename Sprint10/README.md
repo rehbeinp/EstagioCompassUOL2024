@@ -1,6 +1,6 @@
 # Sprint 10
 ## Conteúdo da Sprint: 
-&nbsp;&nbsp;&nbsp; A Sprint 10 foi formada por um curso sobre uso do QuickSight e pela quinta e última parte do desafio.
+&nbsp;&nbsp;&nbsp; A Sprint 10 foi formada por um curso sobre uso do QuickSight e pela quinta e última parte do Desafio Final.
 
 
 ## [Complete Introduction to Amazon QuickSight](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Certificados/Complete%20Introduction%20to%20Amazon%20QuickSight.pdf):
