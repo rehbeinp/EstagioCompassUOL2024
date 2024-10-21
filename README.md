@@ -1,9 +1,11 @@
 # Quem sou eu?
-<img src=Sprint01/Evidências/paularehbein.perfil.jpg width=100>
+&nbsp;&nbsp;&nbsp;O ano é 2024: Olá, meu nome é Paula Rehbein, moro atuamente em Frederico Westphalen onde eu estudo na Universidade Federal de Santa Maria campus FW, cursando Sistemas de Informação. Aqui estão presentes as atividades que realizei durante o estágio da Compass UOL.
 
-&nbsp;&nbsp;&nbsp;Olá, meu nome é Paula Rehbein, tenho 22 anos e moro atuamente em Frederico Westphalen. Aqui eu estudo na Universidade Federal de Santa Maria campus FW, cursando Sistemas de Informação. Estou no segundo semestre de SI e não sou nova apenas no curso, mas também no mercado de trabalho, assim o estágio da Compass é a minha primeira experiência profissional na área de TI. Estou muito animada com o que posso aprender e espero dar o meu melhor durante todo o percurso do estágio.
+### Estágio em Engenharia de Dados Data & AI:
+&nbsp;&nbsp;&nbsp; Realizei meu estágio na empresa Compass UOL, onde foram vistas diversas tecnologias de engenharia de dados. Também foi realizado um desafio principal que tinha como objetivo extrair, transformar, carregar, ingerir e visualizar dados. Nesse foram colocados em prática principalmente os conhecimentos sobre ApacheSpark, SQL, Python, Pandas e Container Docker, ainda fases com uso de AWS CLI, AWS Lambda, AWS Glue, Amazon Athena e Amazon QuickSight.
 
-&nbsp;&nbsp;&nbsp; No meu tempo livre me ocupo com esporte, como academia e futebol, também gosto de tocar instrumentos (toco ukulele amadoramente), e ainda me agrada ler livros e sair com amigos. Quando tenho oportunidade, vou para minha cidade natal ver a minha família, para brincar com minha sobrinha, e matar a saudade dos pais e irmãos. E esse é um pequeno resumo da minha vida.
+&nbsp;&nbsp;&nbsp; Por meio deste estágio tive a oportunidade de tirar a minha primeira certificação AWS. 
+
 
 # Sprints
 &nbsp;&nbsp;&nbsp; As Sprints foram formadas por diversos conteúdos, aqui abordarei os principais tópicos de cada.
@@ -60,3 +62,6 @@
 * [Desafio final - Parte 05](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Desafio/README.md#desafio-final---parte-05).
 * [Complete Introduction to Amazon QuickSight](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Certificados/Complete%20Introduction%20to%20Amazon%20QuickSight.pdf).
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/67c20159-7c09-4918-97ec-0f3ba6047509/email).
+
+
+&nbsp;&nbsp;&nbsp;Grata pela oportunidade, aprendizado e tudo mais.
