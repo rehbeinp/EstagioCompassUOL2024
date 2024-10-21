@@ -59,3 +59,4 @@
 ### [Sprint 10](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/README.md):
 * [Desafio final - Parte 05](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Desafio/README.md#desafio-final---parte-05).
 * [Complete Introduction to Amazon QuickSight](https://github.com/rehbeinp/EstagioC_UOL/blob/main/Sprint10/Certificados/Complete%20Introduction%20to%20Amazon%20QuickSight.pdf).
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/67c20159-7c09-4918-97ec-0f3ba6047509/email).
